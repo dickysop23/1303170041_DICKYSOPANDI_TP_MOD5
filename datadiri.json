@@ -1,0 +1,18 @@
+{
+	"home": [
+		{
+			"nama":"Dicky Sopandi",
+			"nim":"1303170041",
+			"kelas":"IT-41-02"
+		}
+	],
+	"about":[
+		{
+			"deskripsi":"Saya adalah anak laki laki yang baik menurut orang tua saya"
+		}
+	],
+	"hobbbies":["Nonton","Jalan-jalan","Malasan-malasan"],
+	"skill":["Gaming","Pinter omong kosong","Bisa menghilang pas sayang-sayangnya"],
+	"education":["SDN Pasiripis 1","SMPN Kertajati 1","SMAN 1 Jatitujuh","Telkom University"],
+	"experience":["Pernah ngoding walaupun gak jago","Pernah salah masuk kamar mandi","Pernah salah ngambil pesanan makanan orang"]
+}
